@@ -1,0 +1,237 @@
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.exe.config
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.exe
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.pdb
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.MainForm.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.pdb
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe.config
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.UC_BangDiem.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.UC_QuanLiSinhVien.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe.licenses
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Qu_n L_ .7F8662DE.Up2Date
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.ExpressApp.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Persistent.Base.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.ExpressApp.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Persistent.Base.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.AssemblyReference.cache
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe.config
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.MainForm.resources
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.Properties.Resources.resources
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.UC_BangDiem.resources
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.UC_QuanLiSinhVien.resources
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.GenerateResource.cache
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe.licenses
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.pdb
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.exe.config
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.exe
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.pdb
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.ExpressApp.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Persistent.Base.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.ExpressApp.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Persistent.Base.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Tranphuc\OneDrive\Desktop\Quản Lý Sinh viên\Quản Lý Sinh viên\obj\Debug\Qu_n L_ .7F8662DE.Up2Date
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.MainForm.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.UC_BangDiem.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản_Lý_Sinh_viên.UC_QuanLiSinhVien.resources
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe.licenses
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.exe.config
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.exe
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\Quản Lý Sinh viên.pdb
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.ExpressApp.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Persistent.Base.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.ExpressApp.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Persistent.Base.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Qu_n L_ .7F8662DE.Up2Date
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.pdb
+C:\Users\Admin\Desktop\Quản Lý Sinh viên (1)\Quản Lý Sinh viên\obj\Debug\Quản Lý Sinh viên.exe.config
